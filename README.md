@@ -13,6 +13,6 @@ My name is Blessing and I am an undergraduate studying towards a degree in Infor
   - 🚩Github Campus Expert.
   - Technology Risk Analyst Trainee.
     
- Feel free to connect with on:
+ Feel free to connect with me on:
     - [LinkedIn](https://www.linkedin.com/in/blessing-mufaro-kashava/)
     - [Twitter](https://twitter.com/blessing_mufaro)
