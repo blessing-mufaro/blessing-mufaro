@@ -5,12 +5,12 @@
 
 👋Hello There!! 
 
-My name is Blessing and I am an undergraduate studying towards a degree in Information Security and Assurance. I specialise in all things cyber security ranging from ethical hacking, risk management, IT auditing and a bit of digital forensics. I am enthusiastic about other fields of tech as well I even write blogs surrounding topics like native programming, AI and web development. I am incredibly enthusiastic about community building and I find great pleasure in organising diverse teams that collaborate to brainstorm solutions to every individual's daily problems. 
+My name is Blessing and I am an undergraduate studying towards a degree in Information Security and Assurance. I specialise in all things cyber security ranging from ethical hacking, risk management, IT auditing and a bit of digital forensics. I am enthusiastic about other fields of tech as well I even write [blogs](https://blessingmufaro.me/) surrounding topics like native programming, AI and web development. I am incredibly enthusiastic about community building and I find great pleasure in organising diverse teams that collaborate to brainstorm solutions to every individual's daily problems. 
 
 # Currently...
 
   - Microsoft Learn Student Ambassador.
-  - 🚩Github Campus Expert.
+  - 🚩[Github Campus Expert](https://githubcampus.expert/blessing-mufaro/).
   - Technology Risk Analyst Trainee.
     
  Feel free to connect with me on:
