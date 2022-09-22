@@ -9,9 +9,9 @@ My name is Blessing and I am an undergraduate studying towards a degree in **Inf
 
 # ▶Currently...
 
-  - [Github Campus Expert](https://githubcampus.expert/blessing-mufaro/).
-  - Technology Risk Analyst Trainee.
-  - [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/2f30bc0e-b1c8-4c5b-b71e-7ca9ce5dc50f).
+  - [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/2f30bc0e-b1c8-4c5b-b71e-7ca9ce5dc50f)
+  - [Github Campus Expert](https://githubcampus.expert/blessing-mufaro/)
+  - Technology Risk Analyst Trainee
   
 # 📜Articles
 
@@ -31,7 +31,6 @@ On other days, I write about the most random topics in [tech](http://www.tzpersp
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-# Feel free to connect with me on:
+# 🔗Feel free to connect with me on:
  
-    - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/blessing-mufaro-kashava/)
-    - [Twitter](https://twitter.com/blessing_mufaro)
+ [Linkedin](https://www.linkedin.com/in/blessing-mufaro-kashava/) or [Twitter](https://twitter.com/blessing_mufaro)
