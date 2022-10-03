@@ -31,6 +31,11 @@ On other days, I write about the most random topics in [tech](http://www.tzpersp
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+
 # 🔗Feel free to connect with me on:
  
  [Linkedin](https://www.linkedin.com/in/blessing-mufaro-kashava/) or [Twitter](https://twitter.com/blessing_mufaro)
+
+# 📉 Stats
+
+<img align="left" alt="Blessing's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=blessing-mufaro&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=dracula" />
