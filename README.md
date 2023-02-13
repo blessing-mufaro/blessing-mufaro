@@ -38,4 +38,4 @@ On other days, I write about the most random topics in [tech](http://www.tzpersp
 
 # 📉 Stats
 
-<img align="left" alt="Blessing's GitHub Stats" src="https://github-readme-stats-ruby-one.vercel.app/api?username=blessing-mufaro&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=dracula" />
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=blessing-mufaro&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blessing-mufaro&layout=compact&theme=buefy&hide_border=true" /></a> |
