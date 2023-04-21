@@ -15,7 +15,7 @@ My name is Blessing and I am an undergraduate studying towards a degree in **Inf
   
 # 📜Articles
 
-I am enthusiastic about other fields of tech as well I even write [blogs](https://blessingmufaro.me/) surrounding topics like *native programming*, *Artificial Intelligence* and *Web Development*.
+I am enthusiastic about other fields of tech as well I even write [blogs](https://thecyberstash.hashnode.dev/) surrounding topics like *native programming*, *Artificial Intelligence* and *Web Development*.
 
 On other days, I write about the most random topics in [tech](http://www.tzperspective.com/index.php/author/blessing/).
     
