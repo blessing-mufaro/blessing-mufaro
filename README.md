@@ -15,7 +15,7 @@ My name is Blessing and I am an undergraduate studying towards a degree in **Inf
   
 # 📜Articles
 
-My love for cybersecurity has me writing articles on it on this [weblogs](https://thecyberstash.hashnode.dev/) but I occasionally write about *Native Programming*, *Artificial Intelligence* and *Cloud Computing* too.
+My love for cybersecurity has me writing articles on it on this [weblog](https://thecyberstash.hashnode.dev/) but I occasionally write about *Native Programming*, *Artificial Intelligence* and *Cloud Computing* too.
 
 On other days, I write about the most random topics in [tech](http://www.tzperspective.com/index.php/author/blessing/) on a colleague's website as a contributor/co-writer.
     
