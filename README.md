@@ -1,41 +1,34 @@
+<h1 align="center"> 
 
-![I'm blessing](https://user-images.githubusercontent.com/75522169/169711855-104f408b-99e8-42aa-b00c-49fcf867a0b1.png)
+![Exciting GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQ4c2d0a2NjYnNwMnVoZDNzZG5iY3I2cmVyMnUwMTZoaWQwb2ljdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.gif)
 
-# 👨🏾About Me
-
-## 👋Hey There!! 
-
-My name is Blessing and I am an undergraduate studying towards a degree in **Information Security and Assurance**. I specialise in all things cyber security ranging from *ethical hacking*, *risk management*, *IT audit* and a bit of *digital forensics*. I am a passionate community builder and I find great pleasure in organising diverse teams that collaborate to brainstorm solutions to every individual's daily problems. 
-
-# ▶Currently...
-
-  - [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/2f30bc0e-b1c8-4c5b-b71e-7ca9ce5dc50f)
-  - [Github Campus Expert](https://githubcampus.expert/blessing-mufaro/)
-  - Technology Risk Analyst Trainee
-  
-# 📜Articles
-
-My love for cybersecurity has me writing articles on it on this [weblog](https://thecyberstash.hashnode.dev/) but I occasionally write about *Native Programming*, *Artificial Intelligence* and *Cloud Computing* too.
-
-On other days, I write about the most random topics in [tech](http://www.tzperspective.com/index.php/author/blessing/) on a colleague's website as a contributor/co-writer.
+I am Blessing Mufaro Kashava
     
-# ⚙Technology Stack
+Welcome to my portfolio</h1>
+- 🧑‍💻Penetration Tester by Day @ [BDO](http://bdo.co.zw/)
+- 🌐Passionate Community Builder - Founder of [Evolve Club](https://thecyberstash.hashnode.dev/introducing-the-evolve-club)
+- 🚩GitHub Campus Expert & Microsoft Learn Student Ambassador
+- 💬 Ask me about **Hacking, Infosec Communities, Career Growth**
+- 📫 How to reach me:
+<a href="https://twitter.com/blessing_mufaro"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="https://linkedin.com/in/blessing-mufaro-kashava"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+---
+## 📚 Projects: 
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+Head over to my blog to see me rambling about my passions (all thing 🔐Security) » [The Cyber Stash](https://thecyberstash.hashnode.dev/)
 
+---
 
-# 🔗Feel free to connect with me on:
- 
- [Linkedin](https://www.linkedin.com/in/blessing-mufaro-kashava/) or [Twitter](https://twitter.com/blessing_mufaro)
+## 👫 Community:
+- Founder - [Evolve](https://www.linkedin.com/posts/blessing-mufaro-kashava_attention-infosec-community-after-operating-activity-7190985106386206720-mQYn?utm_source=share&utm_medium=member_desktop) Cybersecurity Club
+- BSides Cape Town Volunteer [BSides Cape Town](https://bsidescapetown.co.za/conference/Bsides-Cape-Town-Volt-Post/)
+- [BSides](https://bsidesjoburg.co.za/) Joburg Volunteer
+- Committee Member - Zim Developers [Zim Developer](https://zimdevelopers.org/)
 
-# 📉 Stats
+--
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=blessing-mufaro&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blessing-mufaro&layout=compact&theme=buefy&hide_border=true" /></a> |
+## ⚡ Freetime activities? :
+
+**RPG Gaming, CTFs and Sitcoms**
+
+---
