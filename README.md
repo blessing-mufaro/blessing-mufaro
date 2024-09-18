@@ -2,7 +2,7 @@
 
 ![Exciting GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQ4c2d0a2NjYnNwMnVoZDNzZG5iY3I2cmVyMnUwMTZoaWQwb2ljdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.gif)
 
-I am Blessing Mufaro Kashava
+👋 I am Blessing 
     
 Welcome to my portfolio</h1>
 - 🧑‍💻Penetration Tester by Day @ [BDO](http://bdo.co.zw/)
