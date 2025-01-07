@@ -7,7 +7,7 @@
 Welcome to my portfolio</h1>
 - 🧑‍💻Penetration Tester by Day
 - 🌐Passionate Community Builder - Founder of [Evolve Club](https://thecyberstash.hashnode.dev/introducing-the-evolve-club)
-- Ex 🚩GitHub Campus Expert & Microsoft Learn Student Ambassador
+- 🚩Ex GitHub Campus Expert & Microsoft Learn Student Ambassador
 - 💬 Ask me about **Hacking, Infosec Communities, Career Growth**
 - 📫 How to reach me:
 <a href="https://twitter.com/blessing_mufaro"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
