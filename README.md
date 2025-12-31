@@ -5,7 +5,7 @@
 👋 I am Blessing 
     
 Welcome to my portfolio</h1>
-- 🧑‍💻Penetration Tester by Day
+- 🧑‍💻Security Engineer by Day
 - 🌐Passionate Community Builder - Founder of [Evolve Club](https://thecyberstash.hashnode.dev/introducing-the-ev)
 - 🚩Ex GitHub Campus Expert & Microsoft Learn Student Ambassador
 - 💬 Ask me about **Hacking, Infosec Communities, Career Growth**
