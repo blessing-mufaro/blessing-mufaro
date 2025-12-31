@@ -6,7 +6,7 @@
     
 Welcome to my portfolio</h1>
 - 🧑‍💻Penetration Tester by Day
-- 🌐Passionate Community Builder - Founder of [Evolve Club](https://thecyberstash.hashnode.dev/introducing-the-evolve-club)
+- 🌐Passionate Community Builder - Founder of [Evolve Club](https://thecyberstash.hashnode.dev/introducing-the-ev)
 - 🚩Ex GitHub Campus Expert & Microsoft Learn Student Ambassador
 - 💬 Ask me about **Hacking, Infosec Communities, Career Growth**
 - 📫 How to reach me:
