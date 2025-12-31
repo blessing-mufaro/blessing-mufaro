@@ -21,7 +21,7 @@ Head over to my blog to see me rambling about my passions (all thing 🔐Securit
 
 ## 👫 Community:
 - Founder - [Evolve](https://www.linkedin.com/posts/blessing-mufaro-kashava_attention-infosec-community-after-operating-activity-7190985106386206720-mQYn?utm_source=share&utm_medium=member_desktop) Cybersecurity Club
-- BSides Cape Town Volunteer [BSides Cape Town](https://bsidescapetown.co.za/conference/Bsides-Cape-Town-Volt-Post/)
+- BSides Cape Town Volunteer [BSides Cape Town](https://bsidescapetown.co.za/bsides-cape-town-rite-of-passage-2024/)
 - [BSides](https://bsidesjoburg.co.za/) Joburg Volunteer
 - Committee Member - Zim Developers [Zim Developer](https://zimdevelopers.org/)
 
